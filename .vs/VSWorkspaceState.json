@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\education-met"
   ],
   "SelectedNode": "\\education-met",
+=======
+    ""
+  ],
+  "SelectedNode": "\\D:\\PROGRAMING\\BACKEND\\C#-Space\\C#-Education\\EDUCATION-VS\\dotnet-prepare",
+>>>>>>> dev
   "PreviewInSolutionExplorer": false
 }
