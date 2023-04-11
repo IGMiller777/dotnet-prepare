@@ -1,0 +1,15 @@
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\bin\Debug\net6.0\education-met.exe
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\bin\Debug\net6.0\education-met.deps.json
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\bin\Debug\net6.0\education-met.runtimeconfig.json
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\bin\Debug\net6.0\education-met.dll
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\bin\Debug\net6.0\education-met.pdb
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.csproj.AssemblyReference.cache
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.AssemblyInfoInputs.cache
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.AssemblyInfo.cs
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.dll
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\refint\education-met.dll
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.pdb
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\education-met.genruntimeconfig.cache
+D:\PROGRAMING\BACKEND\C#-Space\C#-Education\EDUCATION-VS\dotnet-prepare\education-met\obj\Debug\net6.0\ref\education-met.dll
